@@ -6,4 +6,4 @@ drawing
 collages
 pastel 
 painting 
-these are all artworks
+these are all artwork 
